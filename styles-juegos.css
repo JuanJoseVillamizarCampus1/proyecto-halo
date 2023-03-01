@@ -1,0 +1,24 @@
+body{
+    background-color: brown !important;
+}
+@font-face {
+    font-family: 'halo';
+    src: url(font/Halo.ttf);
+}
+.back{
+    background-image: url(imgs-juegos/back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+    background-position: center;
+}
+.back-nav2{
+    background-color: #bec6c854;
+    font-family: 'halo';
+    color: #10d1d1;
+}
+
+.letra{
+    font-family: 'Inter';
+    font-style: normal;
+}
