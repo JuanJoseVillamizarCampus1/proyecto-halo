@@ -16,11 +16,11 @@ body{
 .back-nav2{
     background-color: #bec6c854;
     font-family: 'halo';
-    color: #10d1d1;
+    color:  #fd6812;
 }
 .letra{
     font-family: 'halo';
-    color: #10d1d1;
+    color:  #fd6812;
 }
 
 #img-1{
@@ -57,7 +57,7 @@ body{
     letter-spacing: 0.05em;
 
     font-family: 'halo';
-    color: #10d1d1;
+    color:  #fd6812;
 }
 
 h1, h2, h3{
@@ -67,7 +67,7 @@ h1, h2, h3{
     letter-spacing: 0.05em;
 
     font-family: 'halo';
-    color: #10d1d1;
+    color: #fd6812;
 }
 
 p{
